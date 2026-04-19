@@ -9,7 +9,7 @@ An advanced environmental monitoring system that tracks light intensity and temp
 - **ADC Signal Processing:** Uses voltage dividers to read analog data from LDR and NTC Thermistor sensors.
 
 ## 📺 Video Demo
-Click pe imaginea de mai jos pentru a vedea demonstrația proiectului:
+Click the image below to watch the system in action:
 
 [![Watch the video](https://img.youtube.com/vi/pqKJtCltroM/maxresdefault.jpg)](https://youtube.com/shorts/pqKJtCltroM)
 
